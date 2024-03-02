@@ -1,0 +1,41 @@
+Taxa,Taxa_correlation_network,Association_pH,Interaction_with_host
+Actinomyces,b,NA,b
+Aerococcus,e,NA,e
+Anaerococcus,c,6.1,b
+Atopobium vaginae,f,5,f
+Bifidobacterium,a,4.7,b
+Bulleidia,d,NA,d
+BVAB TM7,d,5.5,d
+Ca. L. vaginae,e,5.3,e
+Clostridiales,f,NA,d
+Coriobacteriaceae,f,NA,f
+Corynebacterium,a,NA,c
+Dialister,f,NA,g
+Finegoldia,b,NA,b
+Fusobacterium,b,5.55,d
+Gardnerella vaginalis,f,5.3,f
+Gemella,e,NA,d
+Lactobacillus crispatus,a,4.4,a
+Lactobacillus gasseri,a,4.7,a
+Lactobacillus iners,b,4.7,d
+Lactobacillus jensenii,a,5,b
+Megasphaera,f,NA,f
+Methylophilus,a,NA,NA
+Mobiluncus,d,NA,d
+Mycoplasma,e,5.55,h
+Other Lachnospiraceae,c,NA,b
+Other Lactobacillus,a,4.85,a
+Other Prevotella,f,5.65,d
+Other Sneathia,f,5.55,e
+Parvimonas,f,NA,e
+Peptoniphilus,e,NA,d
+Peptostreptococcus,b,NA,i
+Porphyromonas,c,NA,d
+Prevotella bivia,c,5.8,d
+Prevotella cluster2,f,5.8,g
+Pseudomonas,a,5,a
+Sneathia amnii,f,5.8,g
+Staphylococcus,a,NA,a
+Streptococcus,b,5.5,b
+Ureaplasma,b,NA,d
+Veillonella,a,NA,b
